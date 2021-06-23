@@ -6,8 +6,8 @@
 
 - [Commands](#command-list)
 - [Searching](#searching)
-  - [mdn](#mdn)
-  - [npm](#npm)
+  - [MDN](#mdn)
+  - [NPM](#npm)
   - [Node](#node)
 
 
